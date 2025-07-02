@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Dinesh Nimje</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay&label=Profile%20views&color=0e75b6&style=flat" alt="jay" /> </p>
 
+### About me ☕
 - 🔭 I’m currently pursuing **B.Tech(CSE) from Delhi Technological University (Formerely DCE)**
 
 - 📫 How to reach me **jaydineshnimje@gmail.com**
